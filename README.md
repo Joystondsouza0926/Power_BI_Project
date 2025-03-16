@@ -19,8 +19,7 @@ This repository contains a comprehensive Power BI report designed to analyze sal
 - Explore the interactive visualizations to uncover insights.
 
 ## Screenshots
-![Dashboard Screenshot](C:\Users\joyst\OneDrive\Pictures\Screenshots\sales_report.png)
-
+![Dashboard Screenshot](sales_report.png)
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements.
 
